@@ -1,0 +1,2 @@
+D:\BCI\LiveAmp-LSL\x64\Debug\LiveAmp-LSL.exe
+D:\BCI\LiveAmp-LSL\x64\Debug\LiveAmp-LSL.pdb

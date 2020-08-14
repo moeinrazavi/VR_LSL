@@ -1,0 +1,21 @@
+﻿  AmplifierSDK.cpp
+  main.cpp
+D:\BCI\LiveAmp-LSL\include\RawDataHandlerExample.h(79,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\BCI\LiveAmp-LSL\main.cpp(265,103): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+D:\BCI\LiveAmp-LSL\main.cpp(404,6): warning C4101: 'nRes': unreferenced local variable
+  Generating Code...
+  LiveAmp-LSL.vcxproj -> D:\BCI\LiveAmp-LSL\x64\Debug\LiveAmp-LSL.exe
+  D:\BCI\LiveAmp-LSL\.\lib\ActiChamp.bit
+  D:\BCI\LiveAmp-LSL\.\lib\actiCHampLib.dll
+  D:\BCI\LiveAmp-LSL\.\lib\ActiChampX.bit
+  D:\BCI\LiveAmp-LSL\.\lib\ActiChamp_x64.dll
+  D:\BCI\LiveAmp-LSL\.\lib\AmplifierSDK.dll
+  D:\BCI\LiveAmp-LSL\.\lib\AmplifierSDK.lib
+  D:\BCI\LiveAmp-LSL\.\lib\LiveAmpLib2.dll
+  D:\BCI\LiveAmp-LSL\.\lib\LiveAmpLib2.lib
+  D:\BCI\LiveAmp-LSL\.\lib\lsl.dll
+  D:\BCI\LiveAmp-LSL\.\lib\lsl.exp
+  D:\BCI\LiveAmp-LSL\.\lib\lsl.ilk
+  D:\BCI\LiveAmp-LSL\.\lib\lsl.lib
+  D:\BCI\LiveAmp-LSL\.\lib\lsl.pdb
+  13 File(s) copied
